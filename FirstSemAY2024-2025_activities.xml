@@ -242,57 +242,57 @@
 </Activity>
 <Activity>
 	<Id>42</Id>
-	<Day>Tuesday</Day>
-	<Hour>07:00-7:30</Hour>
-	<Room>Edu Tech Room</Room>
-</Activity>
-<Activity>
-	<Id>43</Id>
-	<Day>Monday</Day>
-	<Hour>07:00-7:30</Hour>
+	<Day>Friday</Day>
+	<Hour>19:00-19:30</Hour>
 	<Room>MP Room 2</Room>
 </Activity>
 <Activity>
-	<Id>44</Id>
-	<Day>Thursday</Day>
-	<Hour>11:00-11:30</Hour>
-	<Room>Room 102</Room>
-</Activity>
-<Activity>
-	<Id>45</Id>
+	<Id>43</Id>
 	<Day>Saturday</Day>
 	<Hour>11:00-11:30</Hour>
 	<Room>Room 101</Room>
 </Activity>
 <Activity>
+	<Id>44</Id>
+	<Day>Tuesday</Day>
+	<Hour>07:00-7:30</Hour>
+	<Room>Edu Tech Room</Room>
+</Activity>
+<Activity>
+	<Id>45</Id>
+	<Day>Wednesday</Day>
+	<Hour>07:00-7:30</Hour>
+	<Room>Room 103</Room>
+</Activity>
+<Activity>
 	<Id>46</Id>
-	<Day>Thursday</Day>
-	<Hour>13:00-13:30</Hour>
+	<Day>Wednesday</Day>
+	<Hour>14:00-14:30</Hour>
 	<Room>Comlab 1</Room>
 </Activity>
 <Activity>
 	<Id>47</Id>
-	<Day>Monday</Day>
+	<Day>Saturday</Day>
 	<Hour>17:00-17:30</Hour>
-	<Room>Comlab 1</Room>
+	<Room>Comlab 2</Room>
 </Activity>
 <Activity>
 	<Id>48</Id>
-	<Day>Tuesday</Day>
+	<Day>Wednesday</Day>
 	<Hour>08:30-09:00</Hour>
 	<Room>Comlab 2</Room>
 </Activity>
 <Activity>
 	<Id>49</Id>
-	<Day>Wednesday</Day>
-	<Hour>13:00-13:30</Hour>
-	<Room>Comlab 1</Room>
+	<Day>Friday</Day>
+	<Hour>14:00-14:30</Hour>
+	<Room>Comlab 2</Room>
 </Activity>
 <Activity>
 	<Id>50</Id>
-	<Day>Tuesday</Day>
-	<Hour>19:00-19:30</Hour>
-	<Room>MP Room 1</Room>
+	<Day>Thursday</Day>
+	<Hour>10:30-11:00</Hour>
+	<Room>Room 103</Room>
 </Activity>
 <Activity>
 	<Id>51</Id>
@@ -304,13 +304,13 @@
 	<Id>52</Id>
 	<Day>Wednesday</Day>
 	<Hour>17:00-17:30</Hour>
-	<Room>Comlab 1</Room>
+	<Room>Comlab 2</Room>
 </Activity>
 <Activity>
 	<Id>53</Id>
 	<Day>Saturday</Day>
-	<Hour>17:00-17:30</Hour>
-	<Room>Comlab 1</Room>
+	<Hour>14:00-14:30</Hour>
+	<Room>Comlab 2</Room>
 </Activity>
 <Activity>
 	<Id>58</Id>
@@ -590,266 +590,266 @@
 </Activity>
 <Activity>
 	<Id>108</Id>
-	<Day>Thursday</Day>
-	<Hour>10:30-11:00</Hour>
-	<Room>Room 103</Room>
+	<Day>Tuesday</Day>
+	<Hour>17:00-17:30</Hour>
+	<Room>Edu Tech Room</Room>
 </Activity>
 <Activity>
 	<Id>109</Id>
 	<Day>Saturday</Day>
-	<Hour>17:00-17:30</Hour>
-	<Room>Room 102</Room>
+	<Hour>13:30-14:00</Hour>
+	<Room>MP Room 2</Room>
 </Activity>
 <Activity>
 	<Id>110</Id>
-	<Day>Tuesday</Day>
-	<Hour>07:00-7:30</Hour>
-	<Room>Room 103</Room>
+	<Day>Thursday</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room>Room 102</Room>
 </Activity>
 <Activity>
 	<Id>111</Id>
 	<Day>Saturday</Day>
-	<Hour>19:00-19:30</Hour>
-	<Room>Room 103</Room>
+	<Hour>15:30-16:00</Hour>
+	<Room>MP Room 2</Room>
 </Activity>
 <Activity>
 	<Id>112</Id>
-	<Day>Tuesday</Day>
-	<Hour>19:00-19:30</Hour>
-	<Room>Room 102</Room>
+	<Day>Saturday</Day>
+	<Hour>14:30-15:00</Hour>
+	<Room>MP Room 2</Room>
 </Activity>
 <Activity>
 	<Id>113</Id>
-	<Day>Friday</Day>
-	<Hour>12:00-12:30</Hour>
-	<Room>Room 103</Room>
+	<Day>Saturday</Day>
+	<Hour>10:30-11:00</Hour>
+	<Room>MP Room 1</Room>
 </Activity>
 <Activity>
 	<Id>114</Id>
-	<Day>Saturday</Day>
-	<Hour>13:00-13:30</Hour>
+	<Day>Thursday</Day>
+	<Hour>15:00-15:30</Hour>
 	<Room>Comlab 2</Room>
 </Activity>
 <Activity>
 	<Id>115</Id>
-	<Day>Thursday</Day>
-	<Hour>18:00-18:30</Hour>
+	<Day>Friday</Day>
+	<Hour>17:00-17:30</Hour>
 	<Room>Comlab 1</Room>
 </Activity>
 <Activity>
 	<Id>116</Id>
-	<Day>Thursday</Day>
-	<Hour>07:00-7:30</Hour>
+	<Day>Friday</Day>
+	<Hour>11:30-12:00</Hour>
 	<Room>Comlab 2</Room>
 </Activity>
 <Activity>
 	<Id>117</Id>
-	<Day>Saturday</Day>
-	<Hour>10:30-11:00</Hour>
-	<Room>Comlab 1</Room>
+	<Day>Thursday</Day>
+	<Hour>17:00-17:30</Hour>
+	<Room>Comlab 2</Room>
 </Activity>
 <Activity>
 	<Id>118</Id>
-	<Day>Thursday</Day>
-	<Hour>15:00-15:30</Hour>
+	<Day>Tuesday</Day>
+	<Hour>11:30-12:00</Hour>
 	<Room>Comlab 2</Room>
 </Activity>
 <Activity>
 	<Id>119</Id>
 	<Day>Saturday</Day>
-	<Hour>07:30-08:00</Hour>
-	<Room>Comlab 2</Room>
+	<Hour>11:30-12:00</Hour>
+	<Room>Comlab 1</Room>
 </Activity>
 <Activity>
 	<Id>120</Id>
-	<Day>Monday</Day>
-	<Hour>07:00-7:30</Hour>
-	<Room>Edu Tech Room</Room>
+	<Day>Saturday</Day>
+	<Hour>17:00-17:30</Hour>
+	<Room>Room 102</Room>
 </Activity>
 <Activity>
 	<Id>121</Id>
-	<Day>Saturday</Day>
-	<Hour>12:00-12:30</Hour>
-	<Room>Edu Tech Room</Room>
+	<Day>Wednesday</Day>
+	<Hour>17:00-17:30</Hour>
+	<Room>Room 101</Room>
 </Activity>
 <Activity>
 	<Id>123</Id>
 	<Day>Monday</Day>
-	<Hour>15:00-15:30</Hour>
+	<Hour>14:00-14:30</Hour>
 	<Room>Comlab 2</Room>
 </Activity>
 <Activity>
 	<Id>124</Id>
-	<Day>Saturday</Day>
-	<Hour>15:00-15:30</Hour>
-	<Room>Comlab 2</Room>
+	<Day>Thursday</Day>
+	<Hour>18:00-18:30</Hour>
+	<Room>Comlab 1</Room>
 </Activity>
 <Activity>
 	<Id>125</Id>
-	<Day>Friday</Day>
-	<Hour>07:30-08:00</Hour>
+	<Day>Saturday</Day>
+	<Hour>13:00-13:30</Hour>
 	<Room>Edu Tech Room</Room>
 </Activity>
 <Activity>
 	<Id>126</Id>
-	<Day>Wednesday</Day>
-	<Hour>14:00-14:30</Hour>
-	<Room>Room 101</Room>
-</Activity>
-<Activity>
-	<Id>127</Id>
-	<Day>Monday</Day>
-	<Hour>19:00-19:30</Hour>
-	<Room>Room 101</Room>
-</Activity>
-<Activity>
-	<Id>128</Id>
-	<Day>Wednesday</Day>
-	<Hour>07:00-7:30</Hour>
-	<Room>Room 103</Room>
-</Activity>
-<Activity>
-	<Id>129</Id>
-	<Day>Thursday</Day>
-	<Hour>10:00-10:30</Hour>
-	<Room>Comlab 1</Room>
-</Activity>
-<Activity>
-	<Id>130</Id>
-	<Day>Friday</Day>
-	<Hour>14:00-14:30</Hour>
-	<Room>Comlab 2</Room>
-</Activity>
-<Activity>
-	<Id>131</Id>
-	<Day>Monday</Day>
-	<Hour>11:00-11:30</Hour>
-	<Room>Comlab 1</Room>
-</Activity>
-<Activity>
-	<Id>132</Id>
-	<Day>Friday</Day>
-	<Hour>17:00-17:30</Hour>
-	<Room>Comlab 1</Room>
-</Activity>
-<Activity>
-	<Id>133</Id>
-	<Day>Tuesday</Day>
-	<Hour>07:00-7:30</Hour>
-	<Room>Room 102</Room>
-</Activity>
-<Activity>
-	<Id>134</Id>
 	<Day>Saturday</Day>
 	<Hour>18:30-19:00</Hour>
 	<Room>MP Room 2</Room>
 </Activity>
 <Activity>
-	<Id>135</Id>
-	<Day>Wednesday</Day>
-	<Hour>07:00-7:30</Hour>
-	<Room>Room 101</Room>
-</Activity>
-<Activity>
-	<Id>136</Id>
-	<Day>Saturday</Day>
-	<Hour>11:00-11:30</Hour>
-	<Room>Edu Tech Room</Room>
-</Activity>
-<Activity>
-	<Id>137</Id>
-	<Day>Friday</Day>
-	<Hour>11:00-11:30</Hour>
-	<Room>Comlab 1</Room>
-</Activity>
-<Activity>
-	<Id>138</Id>
-	<Day>Wednesday</Day>
-	<Hour>17:00-17:30</Hour>
-	<Room>Comlab 2</Room>
-</Activity>
-<Activity>
-	<Id>139</Id>
-	<Day>Tuesday</Day>
-	<Hour>12:30-13:00</Hour>
-	<Room>Comlab 2</Room>
-</Activity>
-<Activity>
-	<Id>140</Id>
-	<Day>Wednesday</Day>
-	<Hour>08:00-08:30</Hour>
-	<Room>Comlab 2</Room>
-</Activity>
-<Activity>
-	<Id>141</Id>
-	<Day>Thursday</Day>
-	<Hour>07:00-7:30</Hour>
-	<Room>Room 101</Room>
-</Activity>
-<Activity>
-	<Id>142</Id>
-	<Day>Saturday</Day>
-	<Hour>10:00-10:30</Hour>
-	<Room>MP Room 1</Room>
-</Activity>
-<Activity>
-	<Id>143</Id>
-	<Day>Tuesday</Day>
-	<Hour>16:30-17:00</Hour>
-	<Room>Comlab 2</Room>
-</Activity>
-<Activity>
-	<Id>144</Id>
-	<Day>Saturday</Day>
-	<Hour>13:00-13:30</Hour>
-	<Room>Comlab 1</Room>
-</Activity>
-<Activity>
-	<Id>145</Id>
+	<Id>127</Id>
 	<Day>Saturday</Day>
 	<Hour>16:00-16:30</Hour>
 	<Room>Room 103</Room>
 </Activity>
 <Activity>
+	<Id>128</Id>
+	<Day>Monday</Day>
+	<Hour>07:00-7:30</Hour>
+	<Room>Edu Tech Room</Room>
+</Activity>
+<Activity>
+	<Id>129</Id>
+	<Day>Saturday</Day>
+	<Hour>08:30-09:00</Hour>
+	<Room>Comlab 1</Room>
+</Activity>
+<Activity>
+	<Id>130</Id>
+	<Day>Friday</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room>Comlab 1</Room>
+</Activity>
+<Activity>
+	<Id>131</Id>
+	<Day>Monday</Day>
+	<Hour>17:00-17:30</Hour>
+	<Room>Comlab 1</Room>
+</Activity>
+<Activity>
+	<Id>132</Id>
+	<Day>Monday</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room>Comlab 1</Room>
+</Activity>
+<Activity>
+	<Id>133</Id>
+	<Day>Friday</Day>
+	<Hour>12:00-12:30</Hour>
+	<Room>Room 103</Room>
+</Activity>
+<Activity>
+	<Id>134</Id>
+	<Day>Thursday</Day>
+	<Hour>07:00-7:30</Hour>
+	<Room>Room 101</Room>
+</Activity>
+<Activity>
+	<Id>135</Id>
+	<Day>Tuesday</Day>
+	<Hour>07:00-7:30</Hour>
+	<Room>Room 102</Room>
+</Activity>
+<Activity>
+	<Id>136</Id>
+	<Day>Wednesday</Day>
+	<Hour>14:00-14:30</Hour>
+	<Room>Room 101</Room>
+</Activity>
+<Activity>
+	<Id>137</Id>
+	<Day>Wednesday</Day>
+	<Hour>17:00-17:30</Hour>
+	<Room>Comlab 1</Room>
+</Activity>
+<Activity>
+	<Id>138</Id>
+	<Day>Saturday</Day>
+	<Hour>13:30-14:00</Hour>
+	<Room>Comlab 1</Room>
+</Activity>
+<Activity>
+	<Id>139</Id>
+	<Day>Tuesday</Day>
+	<Hour>08:30-09:00</Hour>
+	<Room>Comlab 2</Room>
+</Activity>
+<Activity>
+	<Id>140</Id>
+	<Day>Thursday</Day>
+	<Hour>10:00-10:30</Hour>
+	<Room>Comlab 1</Room>
+</Activity>
+<Activity>
+	<Id>141</Id>
+	<Day>Wednesday</Day>
+	<Hour>07:00-7:30</Hour>
+	<Room>Room 101</Room>
+</Activity>
+<Activity>
+	<Id>142</Id>
+	<Day>Friday</Day>
+	<Hour>07:30-08:00</Hour>
+	<Room>Edu Tech Room</Room>
+</Activity>
+<Activity>
+	<Id>143</Id>
+	<Day>Tuesday</Day>
+	<Hour>17:00-17:30</Hour>
+	<Room>Comlab 2</Room>
+</Activity>
+<Activity>
+	<Id>144</Id>
+	<Day>Saturday</Day>
+	<Hour>16:30-17:00</Hour>
+	<Room>Comlab 1</Room>
+</Activity>
+<Activity>
+	<Id>145</Id>
+	<Day>Saturday</Day>
+	<Hour>19:00-19:30</Hour>
+	<Room>Room 103</Room>
+</Activity>
+<Activity>
 	<Id>146</Id>
 	<Day>Saturday</Day>
-	<Hour>17:00-17:30</Hour>
+	<Hour>07:00-7:30</Hour>
 	<Room>Comlab 2</Room>
 </Activity>
 <Activity>
 	<Id>147</Id>
 	<Day>Thursday</Day>
-	<Hour>09:00-09:30</Hour>
+	<Hour>08:00-08:30</Hour>
 	<Room>Comlab 2</Room>
 </Activity>
 <Activity>
 	<Id>148</Id>
-	<Day>Friday</Day>
-	<Hour>07:00-7:30</Hour>
-	<Room>MP Room 2</Room>
+	<Day>Wednesday</Day>
+	<Hour>18:00-18:30</Hour>
+	<Room>Room 102</Room>
 </Activity>
 <Activity>
 	<Id>149</Id>
 	<Day>Tuesday</Day>
-	<Hour>17:00-17:30</Hour>
-	<Room>Edu Tech Room</Room>
+	<Hour>07:00-7:30</Hour>
+	<Room>Room 103</Room>
 </Activity>
 <Activity>
 	<Id>150</Id>
 	<Day>Saturday</Day>
-	<Hour>13:00-13:30</Hour>
-	<Room>Edu Tech Room</Room>
+	<Hour>12:30-13:00</Hour>
+	<Room>MP Room 2</Room>
 </Activity>
 <Activity>
 	<Id>151</Id>
-	<Day>Thursday</Day>
-	<Hour>17:00-17:30</Hour>
+	<Day>Tuesday</Day>
+	<Hour>14:00-14:30</Hour>
 	<Room>Comlab 2</Room>
 </Activity>
 <Activity>
 	<Id>152</Id>
-	<Day>Saturday</Day>
-	<Hour>07:00-7:30</Hour>
+	<Day>Thursday</Day>
+	<Hour>13:00-13:30</Hour>
 	<Room>Comlab 1</Room>
 </Activity>
 <Activity>
@@ -921,92 +921,92 @@
 <Activity>
 	<Id>166</Id>
 	<Day>Wednesday</Day>
-	<Hour>14:00-14:30</Hour>
+	<Hour>08:30-09:00</Hour>
 	<Room>PC 1</Room>
 </Activity>
 <Activity>
 	<Id>167</Id>
-	<Day>Friday</Day>
-	<Hour>15:00-15:30</Hour>
-	<Room>PC 2</Room>
+	<Day>Wednesday</Day>
+	<Hour>15:30-16:00</Hour>
+	<Room>PC 3</Room>
 </Activity>
 <Activity>
 	<Id>168</Id>
 	<Day>Wednesday</Day>
-	<Hour>08:00-08:30</Hour>
-	<Room>PC 3</Room>
+	<Hour>12:30-13:00</Hour>
+	<Room>PC 1</Room>
 </Activity>
 <Activity>
 	<Id>169</Id>
 	<Day>Wednesday</Day>
-	<Hour>15:30-16:00</Hour>
-	<Room>PC 1</Room>
+	<Hour>14:00-14:30</Hour>
+	<Room>PC 2</Room>
 </Activity>
 <Activity>
 	<Id>170</Id>
-	<Day>Friday</Day>
-	<Hour>10:30-11:00</Hour>
+	<Day>Thursday</Day>
+	<Hour>08:30-09:00</Hour>
 	<Room>PC 3</Room>
 </Activity>
 <Activity>
 	<Id>171</Id>
 	<Day>Tuesday</Day>
-	<Hour>14:30-15:00</Hour>
-	<Room>PC 3</Room>
-</Activity>
-<Activity>
-	<Id>172</Id>
-	<Day>Saturday</Day>
-	<Hour>14:00-14:30</Hour>
-	<Room>PC 3</Room>
-</Activity>
-<Activity>
-	<Id>173</Id>
-	<Day>Tuesday</Day>
-	<Hour>09:30-10:00</Hour>
-	<Room>PC 2</Room>
-</Activity>
-<Activity>
-	<Id>174</Id>
-	<Day>Tuesday</Day>
-	<Hour>07:30-08:00</Hour>
-	<Room>PC 3</Room>
-</Activity>
-<Activity>
-	<Id>175</Id>
-	<Day>Wednesday</Day>
-	<Hour>10:00-10:30</Hour>
+	<Hour>12:00-12:30</Hour>
 	<Room>PC 1</Room>
 </Activity>
 <Activity>
-	<Id>176</Id>
-	<Day>Friday</Day>
-	<Hour>07:00-7:30</Hour>
-	<Room>PC 2</Room>
+	<Id>172</Id>
+	<Day>Monday</Day>
+	<Hour>14:30-15:00</Hour>
+	<Room>PC 1</Room>
 </Activity>
 <Activity>
-	<Id>177</Id>
-	<Day>Tuesday</Day>
-	<Hour>16:00-16:30</Hour>
-	<Room>PC 3</Room>
-</Activity>
-<Activity>
-	<Id>178</Id>
-	<Day>Saturday</Day>
-	<Hour>07:00-7:30</Hour>
-	<Room>PC 3</Room>
-</Activity>
-<Activity>
-	<Id>179</Id>
-	<Day>Saturday</Day>
+	<Id>173</Id>
+	<Day>Wednesday</Day>
 	<Hour>10:30-11:00</Hour>
 	<Room>PC 2</Room>
 </Activity>
 <Activity>
-	<Id>180</Id>
-	<Day>Saturday</Day>
-	<Hour>15:30-16:00</Hour>
+	<Id>174</Id>
+	<Day>Thursday</Day>
+	<Hour>14:30-15:00</Hour>
+	<Room>PC 2</Room>
+</Activity>
+<Activity>
+	<Id>175</Id>
+	<Day>Tuesday</Day>
+	<Hour>09:00-09:30</Hour>
+	<Room>PC 2</Room>
+</Activity>
+<Activity>
+	<Id>176</Id>
+	<Day>Monday</Day>
+	<Hour>12:30-13:00</Hour>
 	<Room>PC 3</Room>
+</Activity>
+<Activity>
+	<Id>177</Id>
+	<Day>Monday</Day>
+	<Hour>07:30-08:00</Hour>
+	<Room>PC 1</Room>
+</Activity>
+<Activity>
+	<Id>178</Id>
+	<Day>Monday</Day>
+	<Hour>11:00-11:30</Hour>
+	<Room>PC 2</Room>
+</Activity>
+<Activity>
+	<Id>179</Id>
+	<Day>Thursday</Day>
+	<Hour>11:30-12:00</Hour>
+	<Room>PC 1</Room>
+</Activity>
+<Activity>
+	<Id>180</Id>
+	<Day>Thursday</Day>
+	<Hour>07:00-7:30</Hour>
+	<Room>PC 2</Room>
 </Activity>
 <Activity>
 	<Id>181</Id>
@@ -1784,27 +1784,27 @@
 </Activity>
 <Activity>
 	<Id>312</Id>
-	<Day>Thursday</Day>
-	<Hour>12:00-12:30</Hour>
-	<Room>Room 101</Room>
+	<Day>Tuesday</Day>
+	<Hour>18:00-18:30</Hour>
+	<Room>Room 103</Room>
 </Activity>
 <Activity>
 	<Id>313</Id>
 	<Day>Saturday</Day>
-	<Hour>07:00-7:30</Hour>
-	<Room>Edu Tech Room</Room>
+	<Hour>11:00-11:30</Hour>
+	<Room>Room 102</Room>
 </Activity>
 <Activity>
 	<Id>314</Id>
 	<Day>Monday</Day>
 	<Hour>18:00-18:30</Hour>
-	<Room>Edu Tech Room</Room>
+	<Room>Room 101</Room>
 </Activity>
 <Activity>
 	<Id>315</Id>
 	<Day>Saturday</Day>
-	<Hour>15:30-16:00</Hour>
-	<Room>Edu Tech Room</Room>
+	<Hour>18:00-18:30</Hour>
+	<Room>Room 101</Room>
 </Activity>
 <Activity>
 	<Id>316</Id>
@@ -1815,31 +1815,31 @@
 <Activity>
 	<Id>317</Id>
 	<Day>Saturday</Day>
-	<Hour>18:00-18:30</Hour>
+	<Hour>14:00-14:30</Hour>
 	<Room>Room 101</Room>
 </Activity>
 <Activity>
 	<Id>318</Id>
 	<Day>Saturday</Day>
-	<Hour>14:00-14:30</Hour>
-	<Room>MP Room 2</Room>
+	<Hour>07:00-7:30</Hour>
+	<Room>Edu Tech Room</Room>
 </Activity>
 <Activity>
 	<Id>319</Id>
 	<Day>Saturday</Day>
-	<Hour>17:30-18:00</Hour>
+	<Hour>11:00-11:30</Hour>
 	<Room>Edu Tech Room</Room>
 </Activity>
 <Activity>
 	<Id>320</Id>
-	<Day>Tuesday</Day>
-	<Hour>17:30-18:00</Hour>
+	<Day>Thursday</Day>
+	<Hour>12:00-12:30</Hour>
 	<Room>Room 101</Room>
 </Activity>
 <Activity>
 	<Id>321</Id>
-	<Day>Saturday</Day>
-	<Hour>12:00-12:30</Hour>
+	<Day>Friday</Day>
+	<Hour>07:00-7:30</Hour>
 	<Room>MP Room 2</Room>
 </Activity>
 <Activity>
@@ -1850,9 +1850,9 @@
 </Activity>
 <Activity>
 	<Id>323</Id>
-	<Day>Wednesday</Day>
-	<Hour>18:00-18:30</Hour>
-	<Room>Room 102</Room>
+	<Day>Friday</Day>
+	<Hour>15:00-15:30</Hour>
+	<Room>MP Room 1</Room>
 </Activity>
 <Activity>
 	<Id>324</Id>
@@ -1918,13 +1918,13 @@
 	<Id>334</Id>
 	<Day>Tuesday</Day>
 	<Hour>18:00-18:30</Hour>
-	<Room>Room 103</Room>
+	<Room>Room 101</Room>
 </Activity>
 <Activity>
 	<Id>335</Id>
-	<Day>Wednesday</Day>
-	<Hour>17:30-18:00</Hour>
-	<Room>Room 101</Room>
+	<Day>Monday</Day>
+	<Hour>18:00-18:30</Hour>
+	<Room>Edu Tech Room</Room>
 </Activity>
 <Activity>
 	<Id>336</Id>
@@ -1935,44 +1935,44 @@
 <Activity>
 	<Id>337</Id>
 	<Day>Friday</Day>
+	<Hour>17:00-17:30</Hour>
+	<Room>MP Room 2</Room>
+</Activity>
+<Activity>
+	<Id>338</Id>
+	<Day>Saturday</Day>
+	<Hour>16:00-16:30</Hour>
+	<Room>Edu Tech Room</Room>
+</Activity>
+<Activity>
+	<Id>339</Id>
+	<Day>Friday</Day>
 	<Hour>07:00-7:30</Hour>
 	<Room>Room 103</Room>
 </Activity>
 <Activity>
-	<Id>338</Id>
-	<Day>Friday</Day>
-	<Hour>17:30-18:00</Hour>
-	<Room>MP Room 2</Room>
-</Activity>
-<Activity>
-	<Id>339</Id>
-	<Day>Saturday</Day>
-	<Hour>07:00-7:30</Hour>
-	<Room>MP Room 1</Room>
-</Activity>
-<Activity>
 	<Id>340</Id>
-	<Day>Saturday</Day>
-	<Hour>11:00-11:30</Hour>
-	<Room>Room 102</Room>
+	<Day>Wednesday</Day>
+	<Hour>18:00-18:30</Hour>
+	<Room>Room 101</Room>
 </Activity>
 <Activity>
 	<Id>341</Id>
 	<Day>Saturday</Day>
 	<Hour>14:00-14:30</Hour>
-	<Room>Room 101</Room>
+	<Room>Edu Tech Room</Room>
 </Activity>
 <Activity>
 	<Id>342</Id>
-	<Day>Friday</Day>
-	<Hour>15:00-15:30</Hour>
+	<Day>Saturday</Day>
+	<Hour>07:00-7:30</Hour>
 	<Room>MP Room 1</Room>
 </Activity>
 <Activity>
 	<Id>343</Id>
-	<Day>Monday</Day>
-	<Hour>17:00-17:30</Hour>
-	<Room>Room 101</Room>
+	<Day>Saturday</Day>
+	<Hour>18:00-18:30</Hour>
+	<Room>Edu Tech Room</Room>
 </Activity>
 <Activity>
 	<Id>345</Id>

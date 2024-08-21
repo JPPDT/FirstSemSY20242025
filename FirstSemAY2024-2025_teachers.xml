@@ -3380,13 +3380,13 @@
      
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="177"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-2"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="08:00-08:30">
-     
+     <Activity id="177"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-2"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="177"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-2"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="09:00-09:30">
      
@@ -3401,34 +3401,34 @@
      
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="178"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-3"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="178"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-3"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="178"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-3"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="176"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-1"></Students><Room name="PC 3"></Room>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="176"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-1"></Students><Room name="PC 3"></Room>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="176"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-1"></Students><Room name="PC 3"></Room>
     </Hour>
     <Hour name="14:00-14:30">
      
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="172"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-2"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="172"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-2"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="172"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-2"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="16:00-16:30">
      
@@ -3460,25 +3460,25 @@
      
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="174"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSEM 1-1"></Students><Room name="PC 3"></Room>
-    </Hour>
-    <Hour name="08:00-08:30">
-     <Activity id="174"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSEM 1-1"></Students><Room name="PC 3"></Room>
-    </Hour>
-    <Hour name="08:30-09:00">
-     <Activity id="174"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSEM 1-1"></Students><Room name="PC 3"></Room>
-    </Hour>
-    <Hour name="09:00-09:30">
      
     </Hour>
+    <Hour name="08:00-08:30">
+     
+    </Hour>
+    <Hour name="08:30-09:00">
+     
+    </Hour>
+    <Hour name="09:00-09:30">
+     <Activity id="175"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSEM 1-2"></Students><Room name="PC 2"></Room>
+    </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="173"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-3"></Students><Room name="PC 2"></Room>
+     <Activity id="175"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSEM 1-2"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="173"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-3"></Students><Room name="PC 2"></Room>
+     <Activity id="175"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSEM 1-2"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="173"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-3"></Students><Room name="PC 2"></Room>
+     
     </Hour>
     <Hour name="11:00-11:30">
      
@@ -3487,13 +3487,13 @@
      
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="171"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-1"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="171"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-1"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="171"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-1"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="13:30-14:00">
      
@@ -3502,22 +3502,22 @@
      
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="171"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-1"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="171"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-1"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="171"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-1"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="177"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-2"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="177"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-2"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="177"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-2"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="17:30-18:00">
      
@@ -3543,58 +3543,58 @@
      
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="168"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-3"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="168"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-3"></Students><Room name="PC 3"></Room>
+     <Activity id="166"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-1"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="168"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-3"></Students><Room name="PC 3"></Room>
+     <Activity id="166"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-1"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="166"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-1"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="175"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSEM 1-2"></Students><Room name="PC 1"></Room>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="175"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSEM 1-2"></Students><Room name="PC 1"></Room>
+     <Activity id="173"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-3"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="175"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSEM 1-2"></Students><Room name="PC 1"></Room>
+     <Activity id="173"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-3"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="173"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-3"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="12:00-12:30">
      
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="168"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-3"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="168"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-3"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="168"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-3"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="166"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-1"></Students><Room name="PC 1"></Room>
+     <Activity id="169"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSBA 1-1"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="166"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-1"></Students><Room name="PC 1"></Room>
+     <Activity id="169"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSBA 1-1"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="166"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-1"></Students><Room name="PC 1"></Room>
+     <Activity id="169"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSBA 1-1"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="169"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSBA 1-1"></Students><Room name="PC 1"></Room>
+     <Activity id="167"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-2"></Students><Room name="PC 3"></Room>
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="169"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSBA 1-1"></Students><Room name="PC 1"></Room>
+     <Activity id="167"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-2"></Students><Room name="PC 3"></Room>
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="169"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSBA 1-1"></Students><Room name="PC 1"></Room>
+     <Activity id="167"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-2"></Students><Room name="PC 3"></Room>
     </Hour>
     <Hour name="17:00-17:30">
      
@@ -3617,22 +3617,22 @@
    </Day>
    <Day name="Thursday">
     <Hour name="07:00-7:30">
-     
+     <Activity id="180"></Activity><Subject name="FITT 3"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="180"></Activity><Subject name="FITT 3"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="08:00-08:30">
-     
+     <Activity id="180"></Activity><Subject name="FITT 3"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="170"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSBA 1-2"></Students><Room name="PC 3"></Room>
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="170"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSBA 1-2"></Students><Room name="PC 3"></Room>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="170"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSBA 1-2"></Students><Room name="PC 3"></Room>
     </Hour>
     <Hour name="10:00-10:30">
      
@@ -3644,13 +3644,13 @@
      
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="179"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="179"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="179"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="PC 1"></Room>
     </Hour>
     <Hour name="13:00-13:30">
      
@@ -3662,13 +3662,13 @@
      
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="174"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSEM 1-1"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="174"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSEM 1-1"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="174"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSEM 1-1"></Students><Room name="PC 2"></Room>
     </Hour>
     <Hour name="16:00-16:30">
      
@@ -3697,13 +3697,13 @@
    </Day>
    <Day name="Friday">
     <Hour name="07:00-7:30">
-     <Activity id="176"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-1"></Students><Room name="PC 2"></Room>
+     
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="176"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-1"></Students><Room name="PC 2"></Room>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="176"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-1"></Students><Room name="PC 2"></Room>
+     
     </Hour>
     <Hour name="08:30-09:00">
      
@@ -3718,13 +3718,13 @@
      
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="170"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSBA 1-2"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="170"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSBA 1-2"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="170"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSBA 1-2"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="12:00-12:30">
      
@@ -3745,13 +3745,13 @@
      
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="167"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-2"></Students><Room name="PC 2"></Room>
+     
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="167"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-2"></Students><Room name="PC 2"></Room>
+     
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="167"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BEE 1-2"></Students><Room name="PC 2"></Room>
+     
     </Hour>
     <Hour name="16:30-17:00">
      
@@ -3777,13 +3777,13 @@
    </Day>
    <Day name="Saturday">
     <Hour name="07:00-7:30">
-     <Activity id="178"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-3"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="178"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-3"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="178"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-3"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="08:30-09:00">
      
@@ -3798,13 +3798,13 @@
      
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="179"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="PC 2"></Room>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="179"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="PC 2"></Room>
+     
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="179"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="PC 2"></Room>
+     
     </Hour>
     <Hour name="12:00-12:30">
      
@@ -3819,22 +3819,22 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="172"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-2"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="172"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-2"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="172"></Activity><Subject name="FITT 1"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSE-E 1-2"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="180"></Activity><Subject name="FITT 3"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="180"></Activity><Subject name="FITT 3"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="180"></Activity><Subject name="FITT 3"></Subject><Activity_Tag name="PE"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="PC 3"></Room>
+     
     </Hour>
     <Hour name="17:00-17:30">
      
@@ -11089,10 +11089,10 @@
   <Teacher name="Julius Sarreal">
    <Day name="Monday">
     <Hour name="07:00-7:30">
-     <Activity id="43"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="MP Room 2"></Room>
+     
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="43"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="MP Room 2"></Room>
+     
     </Hour>
     <Hour name="08:00-08:30">
      
@@ -11149,51 +11149,51 @@
      
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="47"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="47"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="47"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="47"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="47"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="47"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
    </Day>
    <Day name="Tuesday">
     <Hour name="07:00-7:30">
-     <Activity id="42"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Edu Tech Room"></Room>
+     <Activity id="44"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="42"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Edu Tech Room"></Room>
+     <Activity id="44"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="08:00-08:30">
      
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="48"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="48"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="48"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="48"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="48"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="48"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="11:30-12:00">
      
@@ -11241,39 +11241,39 @@
      
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="50"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="MP Room 1"></Room>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="50"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="MP Room 1"></Room>
+     
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="07:00-7:30">
-     
+     <Activity id="45"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="45"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="08:00-08:30">
      
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="48"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="48"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="48"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="48"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="48"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="48"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="11:30-12:00">
      
@@ -11285,46 +11285,46 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="49"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="49"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="49"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
+     <Activity id="46"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="49"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
+     <Activity id="46"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="49"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
+     <Activity id="46"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="49"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
+     <Activity id="46"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="46"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="46"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="52"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-2"></Students><Room name="Comlab 1"></Room>
+     <Activity id="52"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="52"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-2"></Students><Room name="Comlab 1"></Room>
+     <Activity id="52"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="52"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-2"></Students><Room name="Comlab 1"></Room>
+     <Activity id="52"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="52"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-2"></Students><Room name="Comlab 1"></Room>
+     <Activity id="52"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="52"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-2"></Students><Room name="Comlab 1"></Room>
+     <Activity id="52"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="52"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-2"></Students><Room name="Comlab 1"></Room>
+     <Activity id="52"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -11350,13 +11350,13 @@
      
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="50"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="44"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Room 102"></Room>
+     <Activity id="50"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="44"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Room 102"></Room>
+     
     </Hour>
     <Hour name="12:00-12:30">
      
@@ -11365,22 +11365,22 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="46"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="46"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="46"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="46"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="46"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="46"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="16:00-16:30">
      
@@ -11451,22 +11451,22 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="49"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="49"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="49"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="49"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="49"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="49"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="17:00-17:30">
      
@@ -11481,10 +11481,10 @@
      
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="42"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     
+     <Activity id="42"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="MP Room 2"></Room>
     </Hour>
    </Day>
    <Day name="Saturday">
@@ -11513,10 +11513,10 @@
      
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="45"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Room 101"></Room>
+     <Activity id="43"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="45"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Room 101"></Room>
+     <Activity id="43"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="12:00-12:30">
      
@@ -11531,40 +11531,40 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="53"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="53"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="53"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="53"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="53"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="53"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="53"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="Comlab 1"></Room>
+     <Activity id="47"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="53"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="Comlab 1"></Room>
+     <Activity id="47"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="53"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="Comlab 1"></Room>
+     <Activity id="47"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="53"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="Comlab 1"></Room>
+     <Activity id="47"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="53"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="Comlab 1"></Room>
+     <Activity id="47"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="53"></Activity><Subject name="DCIT 50"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 2-1"></Students><Room name="Comlab 1"></Room>
+     <Activity id="47"></Activity><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -21773,10 +21773,10 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="07:00-7:30">
-     <Activity id="110"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Room 103"></Room>
+     
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="110"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Room 103"></Room>
+     
     </Hour>
     <Hour name="08:00-08:30">
      
@@ -21800,16 +21800,16 @@
      
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="118"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="118"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="118"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="118"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="13:30-14:00">
      
@@ -21833,10 +21833,10 @@
      
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="108"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="108"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="18:00-18:30">
      
@@ -21845,10 +21845,10 @@
      
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="112"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Room 102"></Room>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="112"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Room 102"></Room>
+     
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -21933,16 +21933,16 @@
    </Day>
    <Day name="Thursday">
     <Hour name="07:00-7:30">
-     <Activity id="116"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="116"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="116"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="116"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="09:00-09:30">
      
@@ -21954,13 +21954,13 @@
      
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="108"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Room 103"></Room>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="108"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Room 103"></Room>
+     <Activity id="110"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Room 102"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="110"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Room 102"></Room>
     </Hour>
     <Hour name="12:00-12:30">
      
@@ -21981,34 +21981,34 @@
      
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="118"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
+     <Activity id="114"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="118"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
+     <Activity id="114"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="118"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
+     <Activity id="114"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="118"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
+     <Activity id="114"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="117"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="117"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="115"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
+     <Activity id="117"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="115"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
+     <Activity id="117"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="115"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="115"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
    </Day>
    <Day name="Friday">
@@ -22040,16 +22040,16 @@
      
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="116"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="113"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Room 103"></Room>
+     <Activity id="116"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="113"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Room 103"></Room>
+     <Activity id="116"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="116"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="13:30-14:00">
      
@@ -22073,16 +22073,16 @@
      
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="115"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="115"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="115"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="115"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="19:00-19:30">
      
@@ -22096,16 +22096,16 @@
      
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="119"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="119"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="119"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="119"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="09:30-10:00">
      
@@ -22114,49 +22114,49 @@
      
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="117"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
+     <Activity id="113"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="MP Room 1"></Room>
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="117"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
+     <Activity id="113"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="MP Room 1"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="117"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
+     <Activity id="119"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="117"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
+     <Activity id="119"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="119"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="114"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
+     <Activity id="119"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="114"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
+     <Activity id="109"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="114"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
+     <Activity id="109"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="114"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
+     <Activity id="112"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="112"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="111"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="111"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="16:30-17:00">
      
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="109"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Room 102"></Room>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="109"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Room 102"></Room>
+     
     </Hour>
     <Hour name="18:00-18:30">
      
@@ -22165,20 +22165,20 @@
      
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="111"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Room 103"></Room>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="111"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Room 103"></Room>
+     
     </Hour>
    </Day>
   </Teacher>
   <Teacher name="DIT Faculty 2">
    <Day name="Monday">
     <Hour name="07:00-7:30">
-     <Activity id="120"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Edu Tech Room"></Room>
+     <Activity id="128"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="120"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Edu Tech Room"></Room>
+     <Activity id="128"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="08:00-08:30">
      
@@ -22199,28 +22199,28 @@
      
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="131"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 1"></Room>
+     <Activity id="132"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="131"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 1"></Room>
+     <Activity id="132"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="131"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 1"></Room>
+     <Activity id="132"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="131"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 1"></Room>
+     <Activity id="132"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="131"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 1"></Room>
+     <Activity id="132"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="131"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 1"></Room>
+     <Activity id="132"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="123"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="123"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="15:00-15:30">
      <Activity id="123"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
@@ -22229,28 +22229,28 @@
      <Activity id="123"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="123"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="123"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="131"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="131"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="131"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="131"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="127"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Room 101"></Room>
+     <Activity id="131"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="127"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Room 101"></Room>
+     <Activity id="131"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 1"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -22335,10 +22335,10 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="07:00-7:30">
-     <Activity id="128"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Room 103"></Room>
+     
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="128"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Room 103"></Room>
+     
     </Hour>
     <Hour name="08:00-08:30">
      
@@ -22377,10 +22377,10 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="126"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Room 101"></Room>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="126"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Room 101"></Room>
+     
     </Hour>
     <Hour name="15:00-15:30">
      
@@ -22395,10 +22395,10 @@
      
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="121"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="121"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="18:00-18:30">
      
@@ -22433,22 +22433,22 @@
      
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="129"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="129"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="129"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="129"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="129"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="129"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="13:00-13:30">
      
@@ -22481,16 +22481,16 @@
      
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="124"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="124"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="124"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     
+     <Activity id="124"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -22498,10 +22498,10 @@
      
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="125"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="125"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="08:30-09:00">
      
@@ -22519,58 +22519,58 @@
      
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="130"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="130"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="130"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="130"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="130"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="130"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="130"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="130"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="130"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="130"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="130"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="130"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="132"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="132"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="132"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="132"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="132"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="132"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
    </Day>
    <Day name="Saturday">
@@ -22584,37 +22584,37 @@
      
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="129"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="129"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="129"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="129"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="129"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="129"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="11:30-12:00">
      
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="121"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="121"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="125"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="125"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="14:00-14:30">
      
@@ -22623,31 +22623,31 @@
      
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="124"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="124"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="124"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 2"></Room>
+     <Activity id="127"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="124"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 2"></Room>
+     <Activity id="127"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="120"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Room 102"></Room>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="120"></Activity><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Room 102"></Room>
     </Hour>
     <Hour name="18:00-18:30">
      
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="126"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="126"></Activity><Subject name="ITEC 111"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="19:30-20:00">
      
@@ -22737,31 +22737,31 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="07:00-7:30">
-     <Activity id="133"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Room 102"></Room>
+     <Activity id="135"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Room 102"></Room>
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="133"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Room 102"></Room>
+     <Activity id="135"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Room 102"></Room>
     </Hour>
     <Hour name="08:00-08:30">
      
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="139"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="139"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="139"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="139"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="139"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="139"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="11:30-12:00">
      
@@ -22770,22 +22770,22 @@
      
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="139"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="139"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="139"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="139"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="139"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="139"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="15:30-16:00">
      
@@ -22794,7 +22794,7 @@
      
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="143"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="17:00-17:30">
      <Activity id="143"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
@@ -22812,33 +22812,33 @@
      <Activity id="143"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     
+     <Activity id="143"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Comlab 2"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
     <Hour name="07:00-7:30">
-     <Activity id="135"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Room 101"></Room>
+     <Activity id="141"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="135"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-3"></Students><Room name="Room 101"></Room>
+     <Activity id="141"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="140"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="140"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="140"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="140"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="140"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="140"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="11:00-11:30">
      
@@ -22859,10 +22859,10 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="136"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="136"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="15:00-15:30">
      
@@ -22877,30 +22877,30 @@
      
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="138"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
+     <Activity id="137"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="138"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
+     <Activity id="137"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="138"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
+     <Activity id="137"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="138"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
+     <Activity id="137"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="138"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
+     <Activity id="137"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="138"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 2"></Room>
+     <Activity id="137"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
     <Hour name="07:00-7:30">
-     <Activity id="141"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Room 101"></Room>
+     <Activity id="134"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="141"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-3"></Students><Room name="Room 101"></Room>
+     <Activity id="134"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="08:00-08:30">
      
@@ -22915,22 +22915,22 @@
      
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="140"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="140"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="140"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="140"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="140"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="140"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="13:00-13:30">
      
@@ -22980,10 +22980,10 @@
      
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="142"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="08:00-08:30">
-     
+     <Activity id="142"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="08:30-09:00">
      
@@ -23001,22 +23001,22 @@
      
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="137"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="137"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="137"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
+     <Activity id="133"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="137"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
+     <Activity id="133"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="137"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="137"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-1"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="14:00-14:30">
      
@@ -23075,16 +23075,16 @@
      
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="142"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="MP Room 1"></Room>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="142"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="MP Room 1"></Room>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="136"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="136"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="12:00-12:30">
      
@@ -23093,43 +23093,43 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="144"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="144"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
+     <Activity id="138"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="144"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
+     <Activity id="138"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="144"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
+     <Activity id="138"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="144"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
+     <Activity id="138"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="144"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
+     <Activity id="138"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="138"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="144"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="144"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="144"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="144"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="134"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="MP Room 2"></Room>
+     <Activity id="144"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="134"></Activity><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-2"></Students><Room name="MP Room 2"></Room>
+     <Activity id="144"></Activity><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-4"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="19:30-20:00">
      
@@ -23219,10 +23219,10 @@
    </Day>
    <Day name="Tuesday">
     <Hour name="07:00-7:30">
-     
+     <Activity id="149"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="149"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="08:00-08:30">
      
@@ -23261,28 +23261,28 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="151"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="151"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="151"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="151"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="151"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="151"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="149"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="149"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="18:00-18:30">
      
@@ -23365,16 +23365,16 @@
      
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="148"></Activity><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Room 102"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="148"></Activity><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Room 102"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="148"></Activity><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Room 102"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     
+     <Activity id="148"></Activity><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="Room 102"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -23385,10 +23385,10 @@
      
     </Hour>
     <Hour name="08:00-08:30">
-     
+     <Activity id="147"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="147"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="09:00-09:30">
      <Activity id="147"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
@@ -23403,10 +23403,10 @@
      <Activity id="147"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="147"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="147"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="12:00-12:30">
      
@@ -23415,22 +23415,22 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="152"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="152"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="152"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="152"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="152"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="152"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="16:00-16:30">
      
@@ -23439,36 +23439,36 @@
      
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="151"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="151"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="151"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="151"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="151"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="151"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-1"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="07:00-7:30">
-     <Activity id="148"></Activity><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="MP Room 2"></Room>
+     
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="148"></Activity><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="MP Room 2"></Room>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="148"></Activity><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="MP Room 2"></Room>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="148"></Activity><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 4-4"></Students><Room name="MP Room 2"></Room>
+     
     </Hour>
     <Hour name="09:00-09:30">
      
@@ -23539,22 +23539,22 @@
    </Day>
    <Day name="Saturday">
     <Hour name="07:00-7:30">
-     <Activity id="152"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
+     <Activity id="146"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="152"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
+     <Activity id="146"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="152"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
+     <Activity id="146"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="152"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
+     <Activity id="146"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="152"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
+     <Activity id="146"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="152"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Comlab 1"></Room>
+     <Activity id="146"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="10:00-10:30">
      
@@ -23572,13 +23572,13 @@
      
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="150"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="150"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Edu Tech Room"></Room>
+     <Activity id="150"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="150"></Activity><Subject name="ITEC 85"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-2"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="14:00-14:30">
      
@@ -23593,28 +23593,28 @@
      
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="145"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Room 103"></Room>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="145"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Room 103"></Room>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="146"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="146"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="146"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="146"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="146"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
+     <Activity id="145"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="146"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Comlab 2"></Room>
+     <Activity id="145"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Room 103"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -23687,16 +23687,16 @@
      
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="314"></Activity><Subject name="BEEd 27"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students><Room name="Edu Tech Room"></Room>
+     <Activity id="314"></Activity><Subject name="BEEd 27"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="314"></Activity><Subject name="BEEd 27"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students><Room name="Edu Tech Room"></Room>
+     <Activity id="314"></Activity><Subject name="BEEd 27"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="314"></Activity><Subject name="BEEd 27"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students><Room name="Edu Tech Room"></Room>
+     <Activity id="314"></Activity><Subject name="BEEd 27"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="314"></Activity><Subject name="BEEd 27"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students><Room name="Edu Tech Room"></Room>
+     <Activity id="314"></Activity><Subject name="BEEd 27"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students><Room name="Room 101"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -23767,16 +23767,16 @@
      
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="312"></Activity><Subject name="BEEd 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-1"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="312"></Activity><Subject name="BEEd 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-1"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="312"></Activity><Subject name="BEEd 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-1"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     
+     <Activity id="312"></Activity><Subject name="BEEd 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-1"></Students><Room name="Room 103"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -23891,16 +23891,16 @@
      
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="312"></Activity><Subject name="BEEd 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-1"></Students><Room name="Room 101"></Room>
+     
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="312"></Activity><Subject name="BEEd 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-1"></Students><Room name="Room 101"></Room>
+     
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="312"></Activity><Subject name="BEEd 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-1"></Students><Room name="Room 101"></Room>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="312"></Activity><Subject name="BEEd 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-1"></Students><Room name="Room 101"></Room>
+     
     </Hour>
     <Hour name="14:00-14:30">
      
@@ -24021,16 +24021,16 @@
    </Day>
    <Day name="Saturday">
     <Hour name="07:00-7:30">
-     <Activity id="313"></Activity><Subject name="BEEd 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="313"></Activity><Subject name="BEEd 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="313"></Activity><Subject name="BEEd 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="313"></Activity><Subject name="BEEd 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="09:00-09:30">
      
@@ -24045,16 +24045,16 @@
      
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="313"></Activity><Subject name="BEEd 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="Room 102"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="313"></Activity><Subject name="BEEd 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="Room 102"></Room>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="313"></Activity><Subject name="BEEd 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="Room 102"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="313"></Activity><Subject name="BEEd 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="Room 102"></Room>
     </Hour>
     <Hour name="13:00-13:30">
      
@@ -24063,40 +24063,40 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="317"></Activity><Subject name="BEEd 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="317"></Activity><Subject name="BEEd 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="317"></Activity><Subject name="BEEd 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="315"></Activity><Subject name="BEEd 27"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-2"></Students><Room name="Edu Tech Room"></Room>
+     <Activity id="317"></Activity><Subject name="BEEd 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="315"></Activity><Subject name="BEEd 27"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-2"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="315"></Activity><Subject name="BEEd 27"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-2"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="315"></Activity><Subject name="BEEd 27"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-2"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="17:30-18:00">
      
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="317"></Activity><Subject name="BEEd 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="Room 101"></Room>
+     <Activity id="315"></Activity><Subject name="BEEd 27"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-2"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="317"></Activity><Subject name="BEEd 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="Room 101"></Room>
+     <Activity id="315"></Activity><Subject name="BEEd 27"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-2"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="317"></Activity><Subject name="BEEd 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="Room 101"></Room>
+     <Activity id="315"></Activity><Subject name="BEEd 27"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-2"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="317"></Activity><Subject name="BEEd 31"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="Room 101"></Room>
+     <Activity id="315"></Activity><Subject name="BEEd 27"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-2"></Students><Room name="Room 101"></Room>
     </Hour>
    </Day>
   </Teacher>
@@ -24246,16 +24246,16 @@
      
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="320"></Activity><Subject name="BEEd 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-1"></Students><Room name="Room 101"></Room>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="320"></Activity><Subject name="BEEd 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-1"></Students><Room name="Room 101"></Room>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="320"></Activity><Subject name="BEEd 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-1"></Students><Room name="Room 101"></Room>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="320"></Activity><Subject name="BEEd 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-1"></Students><Room name="Room 101"></Room>
+     
     </Hour>
     <Hour name="19:30-20:00">
      
@@ -24329,16 +24329,16 @@
      
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="323"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSBA 1-2"></Students><Room name="Room 102"></Room>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="323"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSBA 1-2"></Students><Room name="Room 102"></Room>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="323"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSBA 1-2"></Students><Room name="Room 102"></Room>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="323"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSBA 1-2"></Students><Room name="Room 102"></Room>
+     
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -24373,16 +24373,16 @@
      
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="320"></Activity><Subject name="BEEd 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-1"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="320"></Activity><Subject name="BEEd 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-1"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="320"></Activity><Subject name="BEEd 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-1"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="320"></Activity><Subject name="BEEd 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-1"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="14:00-14:30">
      
@@ -24423,16 +24423,16 @@
    </Day>
    <Day name="Friday">
     <Hour name="07:00-7:30">
-     
+     <Activity id="321"></Activity><Subject name="BEEd 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="321"></Activity><Subject name="BEEd 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="08:00-08:30">
-     
+     <Activity id="321"></Activity><Subject name="BEEd 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="321"></Activity><Subject name="BEEd 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="09:00-09:30">
      
@@ -24471,16 +24471,16 @@
      
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="323"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSBA 1-2"></Students><Room name="MP Room 1"></Room>
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="323"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSBA 1-2"></Students><Room name="MP Room 1"></Room>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="323"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSBA 1-2"></Students><Room name="MP Room 1"></Room>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="323"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSBA 1-2"></Students><Room name="MP Room 1"></Room>
     </Hour>
     <Hour name="17:00-17:30">
      
@@ -24503,16 +24503,16 @@
    </Day>
    <Day name="Saturday">
     <Hour name="07:00-7:30">
-     
+     <Activity id="318"></Activity><Subject name="BEEd 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="318"></Activity><Subject name="BEEd 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="08:00-08:30">
-     
+     <Activity id="318"></Activity><Subject name="BEEd 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="318"></Activity><Subject name="BEEd 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="09:00-09:30">
      
@@ -24527,34 +24527,34 @@
      
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="319"></Activity><Subject name="BEEd 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-2"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="319"></Activity><Subject name="BEEd 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-2"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="321"></Activity><Subject name="BEEd 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="MP Room 2"></Room>
+     <Activity id="319"></Activity><Subject name="BEEd 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-2"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="321"></Activity><Subject name="BEEd 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="MP Room 2"></Room>
+     <Activity id="319"></Activity><Subject name="BEEd 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-2"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="321"></Activity><Subject name="BEEd 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="MP Room 2"></Room>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="321"></Activity><Subject name="BEEd 34"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 3-2"></Students><Room name="MP Room 2"></Room>
+     
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="318"></Activity><Subject name="BEEd 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students><Room name="MP Room 2"></Room>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="318"></Activity><Subject name="BEEd 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students><Room name="MP Room 2"></Room>
+     
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="318"></Activity><Subject name="BEEd 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students><Room name="MP Room 2"></Room>
+     
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="318"></Activity><Subject name="BEEd 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-1"></Students><Room name="MP Room 2"></Room>
+     
     </Hour>
     <Hour name="16:00-16:30">
      
@@ -24566,16 +24566,16 @@
      
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="319"></Activity><Subject name="BEEd 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-2"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="319"></Activity><Subject name="BEEd 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-2"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="319"></Activity><Subject name="BEEd 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-2"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="319"></Activity><Subject name="BEEd 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BEE 2-2"></Students><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="19:30-20:00">
      
@@ -24645,22 +24645,22 @@
      <Activity id="336"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-1"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="343"></Activity><Subject name="BSEE 28"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-2"></Students><Room name="Room 101"></Room>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="343"></Activity><Subject name="BSEE 28"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-2"></Students><Room name="Room 101"></Room>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="343"></Activity><Subject name="BSEE 28"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-2"></Students><Room name="Room 101"></Room>
+     <Activity id="335"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-2"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="343"></Activity><Subject name="BSEE 28"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-2"></Students><Room name="Room 101"></Room>
+     <Activity id="335"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-2"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="335"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-2"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     
+     <Activity id="335"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-2"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -24731,16 +24731,16 @@
      
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="334"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students><Room name="Room 103"></Room>
+     <Activity id="334"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="334"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students><Room name="Room 103"></Room>
+     <Activity id="334"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="334"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students><Room name="Room 103"></Room>
+     <Activity id="334"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="334"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students><Room name="Room 103"></Room>
+     <Activity id="334"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-1"></Students><Room name="Room 101"></Room>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -24808,19 +24808,19 @@
      
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="335"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-2"></Students><Room name="Room 101"></Room>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="335"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-2"></Students><Room name="Room 101"></Room>
+     <Activity id="340"></Activity><Subject name="BSEE 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-1"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="335"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-2"></Students><Room name="Room 101"></Room>
+     <Activity id="340"></Activity><Subject name="BSEE 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-1"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="335"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSEM 1-2"></Students><Room name="Room 101"></Room>
+     <Activity id="340"></Activity><Subject name="BSEE 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-1"></Students><Room name="Room 101"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     
+     <Activity id="340"></Activity><Subject name="BSEE 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-1"></Students><Room name="Room 101"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -24905,16 +24905,16 @@
    </Day>
    <Day name="Friday">
     <Hour name="07:00-7:30">
-     <Activity id="337"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-2"></Students><Room name="Room 103"></Room>
+     <Activity id="339"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="337"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-2"></Students><Room name="Room 103"></Room>
+     <Activity id="339"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="337"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-2"></Students><Room name="Room 103"></Room>
+     <Activity id="339"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="337"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-2"></Students><Room name="Room 103"></Room>
+     <Activity id="339"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="Room 103"></Room>
     </Hour>
     <Hour name="09:00-09:30">
      
@@ -24953,31 +24953,31 @@
      
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="342"></Activity><Subject name="BSEE 28"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-1"></Students><Room name="MP Room 1"></Room>
-    </Hour>
-    <Hour name="15:30-16:00">
-     <Activity id="342"></Activity><Subject name="BSEE 28"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-1"></Students><Room name="MP Room 1"></Room>
-    </Hour>
-    <Hour name="16:00-16:30">
-     <Activity id="342"></Activity><Subject name="BSEE 28"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-1"></Students><Room name="MP Room 1"></Room>
-    </Hour>
-    <Hour name="16:30-17:00">
-     <Activity id="342"></Activity><Subject name="BSEE 28"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-1"></Students><Room name="MP Room 1"></Room>
-    </Hour>
-    <Hour name="17:00-17:30">
      
     </Hour>
+    <Hour name="15:30-16:00">
+     
+    </Hour>
+    <Hour name="16:00-16:30">
+     
+    </Hour>
+    <Hour name="16:30-17:00">
+     
+    </Hour>
+    <Hour name="17:00-17:30">
+     <Activity id="337"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-2"></Students><Room name="MP Room 2"></Room>
+    </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="338"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-3"></Students><Room name="MP Room 2"></Room>
+     <Activity id="337"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-2"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="338"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-3"></Students><Room name="MP Room 2"></Room>
+     <Activity id="337"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-2"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="338"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-3"></Students><Room name="MP Room 2"></Room>
+     <Activity id="337"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-2"></Students><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="338"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-3"></Students><Room name="MP Room 2"></Room>
+     
     </Hour>
     <Hour name="19:30-20:00">
      
@@ -24985,16 +24985,16 @@
    </Day>
    <Day name="Saturday">
     <Hour name="07:00-7:30">
-     <Activity id="339"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="MP Room 1"></Room>
+     <Activity id="342"></Activity><Subject name="BSEE 28"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-1"></Students><Room name="MP Room 1"></Room>
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="339"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="MP Room 1"></Room>
+     <Activity id="342"></Activity><Subject name="BSEE 28"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-1"></Students><Room name="MP Room 1"></Room>
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="339"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="MP Room 1"></Room>
+     <Activity id="342"></Activity><Subject name="BSEE 28"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-1"></Students><Room name="MP Room 1"></Room>
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="339"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-4"></Students><Room name="MP Room 1"></Room>
+     <Activity id="342"></Activity><Subject name="BSEE 28"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-1"></Students><Room name="MP Room 1"></Room>
     </Hour>
     <Hour name="09:00-09:30">
      
@@ -25009,16 +25009,16 @@
      
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="340"></Activity><Subject name="BSEE 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-1"></Students><Room name="Room 102"></Room>
+     
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="340"></Activity><Subject name="BSEE 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-1"></Students><Room name="Room 102"></Room>
+     
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="340"></Activity><Subject name="BSEE 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-1"></Students><Room name="Room 102"></Room>
+     
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="340"></Activity><Subject name="BSEE 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-1"></Students><Room name="Room 102"></Room>
+     
     </Hour>
     <Hour name="13:00-13:30">
      
@@ -25027,40 +25027,40 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="341"></Activity><Subject name="BSEE 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-2"></Students><Room name="Room 101"></Room>
+     <Activity id="341"></Activity><Subject name="BSEE 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-2"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="341"></Activity><Subject name="BSEE 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-2"></Students><Room name="Room 101"></Room>
+     <Activity id="341"></Activity><Subject name="BSEE 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-2"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="341"></Activity><Subject name="BSEE 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-2"></Students><Room name="Room 101"></Room>
+     <Activity id="341"></Activity><Subject name="BSEE 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-2"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="341"></Activity><Subject name="BSEE 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-2"></Students><Room name="Room 101"></Room>
+     <Activity id="341"></Activity><Subject name="BSEE 36"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-2"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="338"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-3"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="338"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-3"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="338"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-3"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="338"></Activity><Subject name="GNED 05"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-3"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="343"></Activity><Subject name="BSEE 28"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-2"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="343"></Activity><Subject name="BSEE 28"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-2"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="343"></Activity><Subject name="BSEE 28"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-2"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     
+     <Activity id="343"></Activity><Subject name="BSEE 28"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSE-E 3-2"></Students><Room name="Edu Tech Room"></Room>
     </Hour>
    </Day>
   </Teacher>
