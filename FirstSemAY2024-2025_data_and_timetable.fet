@@ -13778,7 +13778,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Regielyn L. Chavez</Teacher>
-	<Number_of_Not_Available_Times>116</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>124</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Monday</Day>
 		<Hour>11:00-11:30</Hour>
@@ -13922,6 +13922,38 @@
 	<Not_Available_Time>
 		<Day>Tuesday</Day>
 		<Hour>19:30-20:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>07:00-7:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>07:30-08:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>08:00-08:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>08:30-09:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>09:00-09:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>09:30-10:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>10:00-10:30</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Wednesday</Day>
+		<Hour>10:30-11:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Wednesday</Day>
