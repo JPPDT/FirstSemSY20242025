@@ -7926,31 +7926,31 @@
      
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="84"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="ECON 24"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="MP Room 1"></Room>
+     
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="84"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="ECON 24"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="MP Room 1"></Room>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="84"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="ECON 24"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="MP Room 1"></Room>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="84"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="ECON 24"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="MP Room 1"></Room>
+     
     </Hour>
     <Hour name="17:30-18:00">
      
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="84"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="ECON 24"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 102"></Room>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="84"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="ECON 24"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 102"></Room>
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="84"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="ECON 24"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 102"></Room>
     </Hour>
     <Hour name="19:30-20:00">
-     
+     <Activity id="84"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="ECON 24"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 102"></Room>
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -10779,28 +10779,28 @@
      
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="62"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 102"></Room>
+     
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="62"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 102"></Room>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="65"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="65"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="65"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="65"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="65"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="65"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="13:00-13:30">
      
@@ -11489,34 +11489,34 @@
    </Day>
    <Day name="Saturday">
     <Hour name="07:00-7:30">
-     <Activity id="63"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Edu Tech Room"></Room>
+     <Activity id="59"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="DCIT 24"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="63"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Edu Tech Room"></Room>
+     <Activity id="59"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="DCIT 24"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="59"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="DCIT 24"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="59"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="DCIT 24"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Edu Tech Room"></Room>
+     
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="64"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="64"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="64"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="64"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="64"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="64"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 2"></Room>
+     
     </Hour>
     <Hour name="12:00-12:30">
      
@@ -15156,31 +15156,31 @@
      
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="93"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="MKTG 101"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="MP Room 1"></Room>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="93"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="MKTG 101"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="MP Room 1"></Room>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="93"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="MKTG 101"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="MP Room 1"></Room>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="93"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="MKTG 101"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="MP Room 1"></Room>
     </Hour>
     <Hour name="17:30-18:00">
      
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="93"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="MKTG 101"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 102"></Room>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="93"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="MKTG 101"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 102"></Room>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="93"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="MKTG 101"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 102"></Room>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="93"></Activity><Teacher name="Kristina D. Son"></Teacher><Subject name="MKTG 101"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 102"></Room>
+     
     </Hour>
    </Day>
    <Day name="Thursday">
@@ -17273,37 +17273,37 @@
    </Day>
    <Day name="Saturday">
     <Hour name="07:00-7:30">
-     
+     <Activity id="108"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="108"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="MP Room 2"></Room>
     </Hour>
     <Hour name="08:00-08:30">
-     
+     <Activity id="62"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="08:30-09:00">
-     
+     <Activity id="62"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Edu Tech Room"></Room>
     </Hour>
     <Hour name="09:00-09:30">
-     
+     <Activity id="65"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="09:30-10:00">
-     
+     <Activity id="65"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="10:00-10:30">
-     
+     <Activity id="65"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="65"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="65"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="108"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 101"></Room>
+     <Activity id="65"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 2"></Room>
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="108"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 101"></Room>
+     
     </Hour>
     <Hour name="12:30-13:00">
      
@@ -17324,10 +17324,10 @@
      
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="116"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="116"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="16:30-17:00">
      <Activity id="116"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
@@ -17336,10 +17336,10 @@
      <Activity id="116"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="116"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="116"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="18:30-19:00">
      
@@ -17515,10 +17515,10 @@
    </Day>
    <Day name="Wednesday">
     <Hour name="07:00-7:30">
-     
+     <Activity id="40"></Activity><Teacher name="Audrey Gerard D. Advincula"></Teacher><Subject name="ITEC 90"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="40"></Activity><Teacher name="Audrey Gerard D. Advincula"></Teacher><Subject name="ITEC 90"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="08:00-08:30">
      <Activity id="40"></Activity><Teacher name="Audrey Gerard D. Advincula"></Teacher><Subject name="ITEC 90"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
@@ -17527,31 +17527,31 @@
      <Activity id="40"></Activity><Teacher name="Audrey Gerard D. Advincula"></Teacher><Subject name="ITEC 90"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="40"></Activity><Teacher name="Audrey Gerard D. Advincula"></Teacher><Subject name="ITEC 90"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
+     <Activity id="63"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 102"></Room>
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="40"></Activity><Teacher name="Audrey Gerard D. Advincula"></Teacher><Subject name="ITEC 90"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
+     <Activity id="63"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 102"></Room>
     </Hour>
     <Hour name="10:00-10:30">
      
     </Hour>
     <Hour name="10:30-11:00">
-     
+     <Activity id="64"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="64"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="64"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="64"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="64"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="64"></Activity><Teacher name="Muhaimin P. Macapundag"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="13:30-14:00">
      
@@ -18261,10 +18261,10 @@
      
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="110"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 101"></Room>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="110"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 101"></Room>
     </Hour>
     <Hour name="12:00-12:30">
      <Activity id="44"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="MP Room 2"></Room>
@@ -18288,10 +18288,10 @@
      
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="110"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 103"></Room>
+     
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="110"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Room name="Room 103"></Room>
+     
     </Hour>
     <Hour name="16:30-17:00">
      
@@ -18755,7 +18755,7 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="119"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="13:30-14:00">
      <Activity id="119"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
@@ -18767,7 +18767,7 @@
      <Activity id="119"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="119"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Room name="Comlab 1"></Room>
+     
     </Hour>
     <Hour name="15:30-16:00">
      

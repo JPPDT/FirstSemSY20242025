@@ -231,7 +231,7 @@
 <Activity>
 	<Id>40</Id>
 	<Day>Wednesday</Day>
-	<Hour>08:00-08:30</Hour>
+	<Hour>07:00-7:30</Hour>
 	<Room>Comlab 1</Room>
 </Activity>
 <Activity>
@@ -321,7 +321,7 @@
 <Activity>
 	<Id>59</Id>
 	<Day>Saturday</Day>
-	<Hour>08:00-08:30</Hour>
+	<Hour>07:00-7:30</Hour>
 	<Room>Edu Tech Room</Room>
 </Activity>
 <Activity>
@@ -338,27 +338,27 @@
 </Activity>
 <Activity>
 	<Id>62</Id>
+	<Day>Saturday</Day>
+	<Hour>08:00-08:30</Hour>
+	<Room>Edu Tech Room</Room>
+</Activity>
+<Activity>
+	<Id>63</Id>
 	<Day>Wednesday</Day>
 	<Hour>09:00-09:30</Hour>
 	<Room>Room 102</Room>
 </Activity>
 <Activity>
-	<Id>63</Id>
-	<Day>Saturday</Day>
-	<Hour>07:00-7:30</Hour>
-	<Room>Edu Tech Room</Room>
-</Activity>
-<Activity>
 	<Id>64</Id>
-	<Day>Saturday</Day>
-	<Hour>09:00-09:30</Hour>
-	<Room>Comlab 2</Room>
+	<Day>Wednesday</Day>
+	<Hour>10:30-11:00</Hour>
+	<Room>Comlab 1</Room>
 </Activity>
 <Activity>
 	<Id>65</Id>
-	<Day>Wednesday</Day>
-	<Hour>10:00-10:30</Hour>
-	<Room>Comlab 1</Room>
+	<Day>Saturday</Day>
+	<Hour>09:00-09:30</Hour>
+	<Room>Comlab 2</Room>
 </Activity>
 <Activity>
 	<Id>66</Id>
@@ -471,8 +471,8 @@
 <Activity>
 	<Id>84</Id>
 	<Day>Wednesday</Day>
-	<Hour>15:30-16:00</Hour>
-	<Room>MP Room 1</Room>
+	<Hour>18:00-18:30</Hour>
+	<Room>Room 102</Room>
 </Activity>
 <Activity>
 	<Id>85</Id>
@@ -525,8 +525,8 @@
 <Activity>
 	<Id>93</Id>
 	<Day>Wednesday</Day>
-	<Hour>18:00-18:30</Hour>
-	<Room>Room 102</Room>
+	<Hour>15:30-16:00</Hour>
+	<Room>MP Room 1</Room>
 </Activity>
 <Activity>
 	<Id>97</Id>
@@ -591,8 +591,8 @@
 <Activity>
 	<Id>108</Id>
 	<Day>Saturday</Day>
-	<Hour>11:30-12:00</Hour>
-	<Room>Room 101</Room>
+	<Hour>07:00-7:30</Hour>
+	<Room>MP Room 2</Room>
 </Activity>
 <Activity>
 	<Id>109</Id>
@@ -603,8 +603,8 @@
 <Activity>
 	<Id>110</Id>
 	<Day>Saturday</Day>
-	<Hour>15:30-16:00</Hour>
-	<Room>Room 103</Room>
+	<Hour>11:00-11:30</Hour>
+	<Room>Room 101</Room>
 </Activity>
 <Activity>
 	<Id>111</Id>
@@ -639,7 +639,7 @@
 <Activity>
 	<Id>116</Id>
 	<Day>Saturday</Day>
-	<Hour>16:30-17:00</Hour>
+	<Hour>15:30-16:00</Hour>
 	<Room>Comlab 1</Room>
 </Activity>
 <Activity>
@@ -657,7 +657,7 @@
 <Activity>
 	<Id>119</Id>
 	<Day>Saturday</Day>
-	<Hour>13:30-14:00</Hour>
+	<Hour>13:00-13:30</Hour>
 	<Room>Comlab 1</Room>
 </Activity>
 <Activity>
