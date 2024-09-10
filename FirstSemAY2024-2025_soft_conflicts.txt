@@ -1,5 +1,5 @@
 ﻿Soft conflicts of FirstSemAY2024-2025.fet
-Generated with FET 6.22.1 on 8/28/24 11:11 AM
+Generated with FET 6.22.1 on 9/10/24 1:51 PM
 
 Number of broken soft constraints: 0
 Total soft conflicts: 0
