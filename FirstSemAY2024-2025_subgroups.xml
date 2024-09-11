@@ -15185,16 +15185,16 @@
    </Day>
    <Day name="Thursday">
     <Hour name="07:00-7:30">
-     <Activity id="281"></Activity><Teacher name="Mildred A. Sebastian"></Teacher><Subject name="BSEM 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="281"></Activity><Teacher name="Mildred A. Sebastian"></Teacher><Subject name="BSEM 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="281"></Activity><Teacher name="Mildred A. Sebastian"></Teacher><Subject name="BSEM 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="281"></Activity><Teacher name="Mildred A. Sebastian"></Teacher><Subject name="BSEM 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:00-09:30">
      <Activity id="346"></Activity><Teacher name="Estelita A. Villa"></Teacher><Subject name="BSEM 38"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -15230,16 +15230,16 @@
      <Activity id="219"></Activity><Teacher name="Ronnie C. Daef"></Teacher><Subject name="BSEM 35"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="281"></Activity><Teacher name="Mildred A. Sebastian"></Teacher><Subject name="BSEM 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="281"></Activity><Teacher name="Mildred A. Sebastian"></Teacher><Subject name="BSEM 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="281"></Activity><Teacher name="Mildred A. Sebastian"></Teacher><Subject name="BSEM 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="281"></Activity><Teacher name="Mildred A. Sebastian"></Teacher><Subject name="BSEM 32"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
      
