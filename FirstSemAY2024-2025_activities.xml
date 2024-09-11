@@ -879,25 +879,25 @@
 <Activity>
 	<Id>218</Id>
 	<Day>Tuesday</Day>
-	<Hour>13:30-14:00</Hour>
+	<Hour>14:00-14:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>219</Id>
-	<Day>Wednesday</Day>
-	<Hour>13:00-13:30</Hour>
+	<Day>Tuesday</Day>
+	<Hour>17:00-17:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>220</Id>
-	<Day>Thursday</Day>
-	<Hour>15:00-15:30</Hour>
+	<Day>Wednesday</Day>
+	<Hour>16:30-17:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>222</Id>
-	<Day>Tuesday</Day>
-	<Hour>17:00-17:30</Hour>
+	<Day>Thursday</Day>
+	<Hour>12:00-12:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -1364,14 +1364,14 @@
 </Activity>
 <Activity>
 	<Id>351</Id>
-	<Day>Thursday</Day>
-	<Hour>13:00-13:30</Hour>
+	<Day>Wednesday</Day>
+	<Hour>14:30-15:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>352</Id>
 	<Day>Wednesday</Day>
-	<Hour>16:30-17:00</Hour>
+	<Hour>12:30-13:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -1822,6 +1822,12 @@
 	<Id>427</Id>
 	<Day>Tuesday</Day>
 	<Hour>14:00-14:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>428</Id>
+	<Day>Thursday</Day>
+	<Hour>14:30-15:00</Hour>
 	<Room></Room>
 </Activity>
 </Activities_Timetable>
