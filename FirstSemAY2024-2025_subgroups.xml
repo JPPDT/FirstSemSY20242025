@@ -3996,25 +3996,25 @@
      
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="23"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="23"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="23"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="23"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="432"></Activity><Teacher name="John Paul De Torres"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="23"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="432"></Activity><Teacher name="John Paul De Torres"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="23"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="432"></Activity><Teacher name="John Paul De Torres"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="19:30-20:00">
-     
+     <Activity id="432"></Activity><Teacher name="John Paul De Torres"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Wednesday">
@@ -4153,28 +4153,28 @@
      <Activity id="11"></Activity><Teacher name="Arjon C. Veluz"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="24"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="24"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="24"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="24"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="24"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="433"></Activity><Teacher name="John Paul De Torres"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="24"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="433"></Activity><Teacher name="John Paul De Torres"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="19"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="433"></Activity><Teacher name="John Paul De Torres"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="19"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="433"></Activity><Teacher name="John Paul De Torres"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -4283,10 +4283,10 @@
      <Activity id="2"></Activity><Teacher name="John Paul De Torres"></Teacher><Subject name="COSC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:00-11:30">
-     
+     <Activity id="19"></Activity><Teacher name="John Paul De Torres"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="19"></Activity><Teacher name="John Paul De Torres"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:00-12:30">
      
@@ -4307,16 +4307,16 @@
      
     </Hour>
     <Hour name="15:00-15:30">
-     
+     <Activity id="434"></Activity><Teacher name="John Paul De Torres"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="15:30-16:00">
-     
+     <Activity id="434"></Activity><Teacher name="John Paul De Torres"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="434"></Activity><Teacher name="John Paul De Torres"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="434"></Activity><Teacher name="John Paul De Torres"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
      
@@ -5114,22 +5114,22 @@
      
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="388"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="388"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="388"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="388"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="388"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="388"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="388"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="388"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="388"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="388"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="388"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="388"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="18:30-19:00">
      
@@ -5152,10 +5152,10 @@
      
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="387"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="387"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="387"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="387"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:30-10:00">
      
@@ -16900,28 +16900,28 @@
      <Activity id="49"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="DCIT 26"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="11:30-12:00">
-     
+     <Activity id="394"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="394"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="394"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="394"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="394"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="394"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="394"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="394"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="394"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="394"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="394"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="393"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="394"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="393"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:30-16:00">
      <Activity id="45"></Activity><Teacher name="Julius Sarreal"></Teacher><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -16945,10 +16945,10 @@
      
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="393"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="393"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 80"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Tuesday">
@@ -21214,16 +21214,16 @@
      
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="27"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="27"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="27"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="27"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="27"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="27"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:00-09:30">
-     <Activity id="27"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="27"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="09:30-10:00">
      <Activity id="129"></Activity><Teacher name="Janoos Paraso Rapanut"></Teacher><Subject name="ITEC 111"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
@@ -22498,10 +22498,10 @@
      
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="389"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="389"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="389"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="389"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:30-09:00">
      
@@ -22510,22 +22510,22 @@
      
     </Hour>
     <Hour name="09:30-10:00">
-     <Activity id="392"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="392"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="10:00-10:30">
-     <Activity id="392"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="392"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="392"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="392"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="392"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="392"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="11:30-12:00">
-     <Activity id="392"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="392"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="392"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="392"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="12:30-13:00">
      
@@ -22708,22 +22708,22 @@
      
     </Hour>
     <Hour name="15:30-16:00">
-     <Activity id="391"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="391"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="391"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="391"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="391"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="391"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
      
@@ -22927,22 +22927,22 @@
      
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="391"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="391"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="391"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="391"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="391"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="391"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
      
@@ -23010,10 +23010,10 @@
      <Activity id="396"></Activity><Teacher name="Janoos Paraso Rapanut"></Teacher><Subject name="ITEC 116"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="390"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="390"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="390"></Activity><Teacher name="Edison Feranil"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     <Activity id="390"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
      
