@@ -128,8 +128,8 @@
 </Activity>
 <Activity>
 	<Id>27</Id>
-	<Day>Monday</Day>
-	<Hour>07:30-08:00</Hour>
+	<Day>Friday</Day>
+	<Hour>09:30-10:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -1569,7 +1569,7 @@
 <Activity>
 	<Id>387</Id>
 	<Day>Friday</Day>
-	<Hour>08:30-09:00</Hour>
+	<Hour>07:30-08:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -1580,14 +1580,14 @@
 </Activity>
 <Activity>
 	<Id>389</Id>
-	<Day>Friday</Day>
-	<Hour>07:30-08:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>15:30-16:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>390</Id>
-	<Day>Friday</Day>
-	<Hour>12:30-13:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>14:30-15:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -1599,19 +1599,19 @@
 <Activity>
 	<Id>392</Id>
 	<Day>Friday</Day>
-	<Hour>09:30-10:00</Hour>
+	<Hour>13:30-14:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>393</Id>
-	<Day>Monday</Day>
-	<Hour>14:30-15:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>10:00-10:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>394</Id>
-	<Day>Monday</Day>
-	<Hour>11:30-12:00</Hour>
+	<Day>Tuesday</Day>
+	<Hour>17:00-17:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -1748,26 +1748,26 @@
 </Activity>
 <Activity>
 	<Id>417</Id>
-	<Day>Saturday</Day>
-	<Hour>17:00-17:30</Hour>
+	<Day>Thursday</Day>
+	<Hour>10:30-11:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>418</Id>
-	<Day>Saturday</Day>
-	<Hour>12:00-12:30</Hour>
+	<Day>Monday</Day>
+	<Hour>09:00-09:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>419</Id>
 	<Day>Wednesday</Day>
-	<Hour>11:00-11:30</Hour>
+	<Hour>07:00-7:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>420</Id>
 	<Day>Wednesday</Day>
-	<Hour>07:30-08:00</Hour>
+	<Hour>16:30-17:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -1778,26 +1778,26 @@
 </Activity>
 <Activity>
 	<Id>422</Id>
-	<Day>Saturday</Day>
-	<Hour>13:00-13:30</Hour>
+	<Day>Monday</Day>
+	<Hour>10:00-10:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>423</Id>
 	<Day>Wednesday</Day>
-	<Hour>12:30-13:00</Hour>
+	<Hour>10:00-10:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>424</Id>
-	<Day>Saturday</Day>
-	<Hour>16:00-16:30</Hour>
+	<Day>Friday</Day>
+	<Hour>18:00-18:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>425</Id>
 	<Day>Wednesday</Day>
-	<Hour>10:00-10:30</Hour>
+	<Hour>15:30-16:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
