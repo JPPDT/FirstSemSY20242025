@@ -1677,7 +1677,7 @@
 <Activity>
 	<Id>403</Id>
 	<Day>Thursday</Day>
-	<Hour>11:00-11:30</Hour>
+	<Hour>11:30-12:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -1828,6 +1828,24 @@
 	<Id>428</Id>
 	<Day>Thursday</Day>
 	<Hour>14:30-15:00</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>429</Id>
+	<Day>Friday</Day>
+	<Hour>09:00-09:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>430</Id>
+	<Day>Wednesday</Day>
+	<Hour>13:00-13:30</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>431</Id>
+	<Day>Tuesday</Day>
+	<Hour>07:00-7:30</Hour>
 	<Room></Room>
 </Activity>
 </Activities_Timetable>
