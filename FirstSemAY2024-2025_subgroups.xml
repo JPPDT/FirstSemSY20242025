@@ -4475,10 +4475,10 @@
      <Activity id="368"></Activity><Teacher name="Micah Sanchez"></Teacher><Subject name="CvSU 101"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="20"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="20"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
      
@@ -4614,22 +4614,22 @@
      
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
-     
+     <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="13:30-14:00">
-     
+     <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
-     <Activity id="25"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="15:30-16:00">
      <Activity id="25"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
@@ -4647,7 +4647,7 @@
      <Activity id="25"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="25"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="18:30-19:00">
      
@@ -4661,10 +4661,10 @@
    </Day>
    <Day name="Friday">
     <Hour name="07:00-7:30">
-     <Activity id="20"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="20"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:00-08:30">
      
@@ -4715,22 +4715,22 @@
      <Activity id="8"></Activity><Teacher name="Arjon C. Veluz"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="16:30-17:00">
-     <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:00-17:30">
-     <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="17:30-18:00">
-     <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:00-19:30">
      
@@ -5143,10 +5143,10 @@
    </Day>
    <Day name="Friday">
     <Hour name="07:00-7:30">
-     <Activity id="387"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="387"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:00-08:30">
      
@@ -5173,10 +5173,10 @@
      <Activity id="241"></Activity><Teacher name="Jessica Avon Quezada"></Teacher><Subject name="GNED 11"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:00-12:30">
-     
+     <Activity id="387"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="12:30-13:00">
-     
+     <Activity id="387"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="13:00-13:30">
      <Activity id="4"></Activity><Teacher name="John Paul De Torres"></Teacher><Subject name="COSC 50"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -15629,10 +15629,10 @@
      
     </Hour>
     <Hour name="14:00-14:30">
-     
+     <Activity id="417"></Activity><Teacher name="Richelle Rozol"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="14:30-15:00">
-     
+     <Activity id="417"></Activity><Teacher name="Richelle Rozol"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="15:00-15:30">
      
@@ -15736,10 +15736,10 @@
      
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="417"></Activity><Teacher name="Richelle Rozol"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="417"></Activity><Teacher name="Richelle Rozol"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:30-20:00">
      
@@ -21833,7 +21833,7 @@
      <Activity id="427"></Activity><Teacher name="Richelle Rozol"></Teacher><Subject name="ITEC 110"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="28"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="17:30-18:00">
      <Activity id="28"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -21845,7 +21845,7 @@
      <Activity id="28"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="28"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:30-20:00">
      
