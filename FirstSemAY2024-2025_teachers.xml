@@ -1243,16 +1243,16 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="25"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-3"></Students>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="25"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-3"></Students>
+     
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="25"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-3"></Students>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="25"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-3"></Students>
+     
     </Hour>
     <Hour name="15:00-15:30">
      <Activity id="25"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-3"></Students>
@@ -1261,16 +1261,16 @@
      <Activity id="25"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-3"></Students>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="25"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-3"></Students>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="25"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-3"></Students>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="25"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-3"></Students>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="25"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-3"></Students>
     </Hour>
     <Hour name="18:00-18:30">
      
@@ -1287,16 +1287,16 @@
    </Day>
    <Day name="Friday">
     <Hour name="07:00-7:30">
-     
+     <Activity id="20"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-3"></Students>
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="20"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-3"></Students>
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="20"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-3"></Students>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="20"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-3"></Students>
+     
     </Hour>
     <Hour name="09:00-09:30">
      
@@ -1341,10 +1341,10 @@
      
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="26"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-3"></Students>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="26"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-3"></Students>
     </Hour>
     <Hour name="17:00-17:30">
      <Activity id="26"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-3"></Students>
@@ -1359,10 +1359,10 @@
      <Activity id="26"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-3"></Students>
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="26"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-3"></Students>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="26"></Activity><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag><Students name="BSIT 1-3"></Students>
+     
     </Hour>
    </Day>
    <Day name="Saturday">
@@ -5135,18 +5135,18 @@
      
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="387"></Activity><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-4"></Students>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="387"></Activity><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-4"></Students>
+     
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="07:00-7:30">
-     
+     <Activity id="387"></Activity><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-4"></Students>
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="387"></Activity><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 1-4"></Students>
     </Hour>
     <Hour name="08:00-08:30">
      
@@ -20473,10 +20473,10 @@
      
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="417"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-1"></Students>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="417"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-1"></Students>
+     
     </Hour>
     <Hour name="19:00-19:30">
      
@@ -20556,10 +20556,10 @@
      
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="417"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-1"></Students>
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="417"></Activity><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag><Students name="BSIT 3-1"></Students>
     </Hour>
     <Hour name="19:30-20:00">
      

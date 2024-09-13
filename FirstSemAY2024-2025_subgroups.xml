@@ -4617,16 +4617,16 @@
      
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="25"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="25"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00-14:30">
-     <Activity id="25"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:30-15:00">
-     <Activity id="25"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:00-15:30">
      <Activity id="25"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
@@ -4635,16 +4635,16 @@
      <Activity id="25"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="25"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="25"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
-     
+     <Activity id="25"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="25"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
      
@@ -4661,16 +4661,16 @@
    </Day>
    <Day name="Friday">
     <Hour name="07:00-7:30">
-     
+     <Activity id="20"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="20"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="20"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:30-09:00">
-     <Activity id="20"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="09:00-09:30">
      
@@ -4715,10 +4715,10 @@
      <Activity id="8"></Activity><Teacher name="Arjon C. Veluz"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="16:00-16:30">
-     
+     <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="16:30-17:00">
-     
+     <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="17:00-17:30">
      <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
@@ -4733,10 +4733,10 @@
      <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="26"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 22"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Saturday">
@@ -5135,18 +5135,18 @@
      
     </Hour>
     <Hour name="19:00-19:30">
-     <Activity id="387"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:30-20:00">
-     <Activity id="387"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Friday">
     <Hour name="07:00-7:30">
-     
+     <Activity id="387"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="07:30-08:00">
-     
+     <Activity id="387"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="08:00-08:30">
      
@@ -15653,10 +15653,10 @@
      
     </Hour>
     <Hour name="18:00-18:30">
-     <Activity id="417"></Activity><Teacher name="Richelle Rozol"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="18:30-19:00">
-     <Activity id="417"></Activity><Teacher name="Richelle Rozol"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:00-19:30">
      
@@ -15736,10 +15736,10 @@
      
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="417"></Activity><Teacher name="Richelle Rozol"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="417"></Activity><Teacher name="Richelle Rozol"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:30-20:00">
      

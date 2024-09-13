@@ -99,7 +99,7 @@
 <Activity>
 	<Id>20</Id>
 	<Day>Friday</Day>
-	<Hour>08:00-08:30</Hour>
+	<Hour>07:00-7:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -117,13 +117,13 @@
 <Activity>
 	<Id>25</Id>
 	<Day>Thursday</Day>
-	<Hour>13:00-13:30</Hour>
+	<Hour>15:00-15:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>26</Id>
 	<Day>Friday</Day>
-	<Hour>17:00-17:30</Hour>
+	<Hour>16:00-16:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -1568,8 +1568,8 @@
 </Activity>
 <Activity>
 	<Id>387</Id>
-	<Day>Thursday</Day>
-	<Hour>19:00-19:30</Hour>
+	<Day>Friday</Day>
+	<Hour>07:00-7:30</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -1748,8 +1748,8 @@
 </Activity>
 <Activity>
 	<Id>417</Id>
-	<Day>Wednesday</Day>
-	<Hour>18:00-18:30</Hour>
+	<Day>Thursday</Day>
+	<Hour>18:30-19:00</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
