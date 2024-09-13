@@ -5135,10 +5135,10 @@
      
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="387"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:30-20:00">
-     
+     <Activity id="387"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Friday">
@@ -5146,10 +5146,10 @@
      
     </Hour>
     <Hour name="07:30-08:00">
-     <Activity id="387"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:00-08:30">
-     <Activity id="387"></Activity><Teacher name="Joneil Baculod"></Teacher><Subject name="DCIT 21"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:30-09:00">
      
@@ -15653,10 +15653,10 @@
      
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="417"></Activity><Teacher name="Richelle Rozol"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="417"></Activity><Teacher name="Richelle Rozol"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:00-19:30">
      
@@ -15688,10 +15688,10 @@
      <Activity id="421"></Activity><Teacher name="Richelle Rozol"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Laboratory"></Activity_Tag>
     </Hour>
     <Hour name="10:30-11:00">
-     <Activity id="417"></Activity><Teacher name="Richelle Rozol"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:00-11:30">
-     <Activity id="417"></Activity><Teacher name="Richelle Rozol"></Teacher><Subject name="INSY 55"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:30-12:00">
      <Activity id="403"></Activity><Teacher name="Jepre M. Dinglasan"></Teacher><Subject name="DCIT 26"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
@@ -21836,16 +21836,16 @@
      
     </Hour>
     <Hour name="17:30-18:00">
-     
+     <Activity id="28"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:00-18:30">
-     
+     <Activity id="28"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="18:30-19:00">
-     
+     <Activity id="28"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:00-19:30">
-     
+     <Activity id="28"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
     </Hour>
     <Hour name="19:30-20:00">
      
@@ -21883,16 +21883,16 @@
      
     </Hour>
     <Hour name="12:00-12:30">
-     <Activity id="28"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="12:30-13:00">
-     <Activity id="28"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:00-13:30">
-     <Activity id="28"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="13:30-14:00">
-     <Activity id="28"></Activity><Teacher name="Angel A. Duales"></Teacher><Subject name="DCIT 65"></Subject><Activity_Tag name="Lectures"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00-14:30">
      
