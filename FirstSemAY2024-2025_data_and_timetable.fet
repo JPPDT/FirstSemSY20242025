@@ -4300,18 +4300,6 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Ronnie C. Daef</Teacher>
-	<Subject>GNED 03</Subject>
-	<Activity_Tag>Lectures</Activity_Tag>
-	<Students>BSEM 1-1</Students>
-	<Duration>4</Duration>
-	<Total_Duration>4</Total_Duration>
-	<Id>223</Id>
-	<Activity_Group_Id>0</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
 	<Teacher>Gerry Mae T. Silvero</Teacher>
 	<Subject>BSEM 24</Subject>
 	<Activity_Tag>Lectures</Activity_Tag>
@@ -25505,15 +25493,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>223</Activity_Id>
-	<Preferred_Day>Thursday</Preferred_Day>
-	<Preferred_Hour>17:00-17:30</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>429</Activity_Id>
 	<Preferred_Day>Friday</Preferred_Day>
 	<Preferred_Hour>09:00-09:30</Preferred_Hour>
@@ -25732,9 +25711,9 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>25</Activity_Id>
-	<Preferred_Day>Thursday</Preferred_Day>
-	<Preferred_Hour>15:30-16:00</Preferred_Hour>
+	<Activity_Id>28</Activity_Id>
+	<Preferred_Day>Tuesday</Preferred_Day>
+	<Preferred_Hour>17:00-17:30</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -25750,9 +25729,9 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>28</Activity_Id>
-	<Preferred_Day>Tuesday</Preferred_Day>
-	<Preferred_Hour>17:00-17:30</Preferred_Hour>
+	<Activity_Id>25</Activity_Id>
+	<Preferred_Day>Thursday</Preferred_Day>
+	<Preferred_Hour>15:30-16:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -25761,7 +25740,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>387</Activity_Id>
 	<Preferred_Day>Friday</Preferred_Day>
-	<Preferred_Hour>12:00-12:30</Preferred_Hour>
+	<Preferred_Hour>08:30-09:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -25770,7 +25749,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>417</Activity_Id>
 	<Preferred_Day>Wednesday</Preferred_Day>
-	<Preferred_Hour>14:00-14:30</Preferred_Hour>
+	<Preferred_Hour>19:00-19:30</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
